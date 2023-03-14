@@ -1,0 +1,19 @@
+{
+  "name": "web-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "portfolio.js",
+  "scripts": {
+    "start": "nodemon portfolio.js"
+  },
+  "author": "livin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
